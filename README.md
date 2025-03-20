@@ -1,8 +1,8 @@
 ##  Hi there 👋, eu sou Ana Clara!
 
-- 🔭 Atualmente cursando ADS no IFPE Campus Paulista
-- ⚡ Técnico em Desenvolvimento de Sistemas (ETE JBL - Igarassu)
-- 🌱 HTML & CSS | Python | Machine Learning | Análise de dados | IA
+- 🔭 Finalizei o curso de ADS no IFPE Campus Paulista
+- ⚡ Sou Técnico em Desenvolvimento de Sistemas (ETE JBL - Igarassu)
+- 🌱 Python | Django | HTML & CSS | Machine Learning | Análise de dados | IA
 
 <div>
   <a href="https://instagram.com/anaac_f" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
