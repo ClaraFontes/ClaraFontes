@@ -1,6 +1,6 @@
 ##  Hi there 👋, eu sou Ana Clara!
 
-- 🔭 Finalizei o curso de ADS no IFPE Campus Paulista
+- 🔭 Graduanda em Análise e Desenvolvimento de Sistemas no IFPE Campus Paulista
 - ⚡ Sou Técnico em Desenvolvimento de Sistemas (ETE JBL - Igarassu)
 - 🌱 Python | Django | HTML & CSS | Machine Learning | Análise de dados | IA
 
