@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Ana Clara!
 
 - 🎓 Graduate in Systems Analysis and Development from the Federal Institute of Pernambuco (IFPE), Brazil.
-- 💼 💼 Currently working as a Junior Analyst at Musashi da Amazônia, contributing to digital innovation projects and technology-driven solutions within the team.
+- 💼 Currently working as a Junior Analyst at Musashi da Amazônia, contributing to digital innovation projects and technology-driven solutions within the team.
 - 💻 Passionate about Database Modeling and Manipulation, Backend Development with Python and PHP, Systems Integration, Web Development (HTML, CSS, JavaScript, and TypeScript), Data Analysis, Machine Learning, and AI Solutions.
 
 <div>
