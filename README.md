@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Ana Clara!
 
-- 🎓 Graduated in Systems Analysis and Development from the Federal Institute of Pernambuco (IFPE), Brazil.
-- 💼 💼 Currently working as an Junior Analyst at Musashi da Amazônia, contributing to digital innovation projects and technology-driven solutions within the team.
+- 🎓 Graduate in Systems Analysis and Development from the Federal Institute of Pernambuco (IFPE), Brazil.
+- 💼 💼 Currently working as a Junior Analyst at Musashi da Amazônia, contributing to digital innovation projects and technology-driven solutions within the team.
 - 💻 Passionate about Database Modeling and Manipulation, Backend Development with Python and PHP, Systems Integration, Web Development (HTML, CSS, JavaScript, and TypeScript), Data Analysis, Machine Learning, and AI Solutions.
 
 <div>
@@ -13,3 +13,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ClaraFontes/ClaraFontes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
